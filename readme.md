@@ -29,22 +29,16 @@ Installed 4MB flash memory provides full WLED firmware support, including Over-T
 WLED devices are discovered automatically by Hyperion.
 
 ### Ambilight videos
-<video width="500" controls>
-  <source src="videos/ambilight-test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/49450780/193467004-ad8659e0-2ca4-4e45-a21f-c46aeb7bf4c0.mp4
 
-<video width="500" controls>
-  <source src="videos/ambilight-game.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/49450780/193467104-2082a0d3-7ae6-40a5-b760-2eaae8f833c8.mp4
 
 
 ## How to DIY
 You can assemble WLED Controller yourself using the information below.
 
 ### Schematic
-<img width="600px" src="images/schematic.png">
+<img width="600px" src="images/schema.png">
 
 - **MK1**: ESP-01/ESP-01s
 - **U1**: AMS1117 3.3v, SOT-89
@@ -63,4 +57,4 @@ The PCB (Gerber) files are in this repository.
 
 
 ## How to buy
-You will be able to purchase WLED Controller after **1 Nov 2022**. The purchase link will be on this page.
+You will be able to order WLED Controller after **1 Nov 2022**. The purchase link will be on this page.
