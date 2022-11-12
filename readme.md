@@ -57,4 +57,4 @@ The PCB (Gerber) files are in this repository.
 
 
 ## How to buy
-You will be able to order WLED Controller after **1 Nov 2022**. The purchase link will be on this page.
+You will be able to order WLED Controller after **1 Dec 2022**. The purchase link will be on this page.
